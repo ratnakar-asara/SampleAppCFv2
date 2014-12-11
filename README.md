@@ -1,4 +1,4 @@
-# Sample App for Bluemix # 
+# Sample App for Bluemix
 
 NodeJS application to test the Bluemix button.
 
