@@ -1,4 +1,9 @@
 ---
+declared-services:
+  Personality Insights-payfriend:
+    type: personality_insights_pstg
+    plan: "IBM Watson Personality Insights Monthly Plan"
+    
 applications:
 - name: sampleAppCFv2
   memory: 128M
